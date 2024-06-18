@@ -15,21 +15,18 @@ Steps
 Clone the Repository
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/empowermanage.git
 cd empowermanage
 ```
 Create and Activate a Virtual Environment
 
 ```bash
-Copy code
 python3 -m venv env
 source env/bin/activate   # On Windows use `env\Scripts\activate`
 ```
 Install Dependencies
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Configure Environment Variables
@@ -44,19 +41,16 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 Run Migrations
 
 ```bash
-Copy code
 python manage.py migrate
 ```
 Create a Superuser
 
 ```bash
-Copy code
 python manage.py createsuperuser
 ```
 Run the Application
 
 ```bash
-Copy code
 python manage.py runserver
 ```
 ## Access the Application
