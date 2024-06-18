@@ -16,7 +16,7 @@ Clone the Repository
 
 ```bash
 git clone https://https://github.com/nitesho4/EmpowerManage
-cd empowermanage
+cd EmpowerManage
 ```
 Create and Activate a Virtual Environment
 
