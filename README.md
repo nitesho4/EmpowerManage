@@ -43,7 +43,7 @@ Run Migrations
 ```bash
 python manage.py migrate
 ```
-Create a Superuser
+Create a SuperUser
 
 ```bash
 python manage.py createsuperuser
