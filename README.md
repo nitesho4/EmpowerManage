@@ -12,7 +12,7 @@ Django (version 3.2 or higher)
 SQLite (default database for development)
 Git
 Steps
-Clone the Repository
+Clone the Repository-
 
 ```bash
 git clone https://https://github.com/nitesho4/EmpowerManage
